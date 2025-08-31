@@ -84,5 +84,4 @@ Successfully delivered a production-ready data warehouse that:
 - Demonstrates enterprise-level data engineering capabilities
 
 ---
-
-*This project represents a complete data warehousing implementation, showcasing the technical skills and best practices required for modern data engineering roles.*
+📊 *Check detailed project documentation* [ here](https://github.com/kevkaleido/sql-data-warehouse-project/blob/65987038d21d23f435c16e37c0ce6187e80609fb/docs/project_documentation.md)
