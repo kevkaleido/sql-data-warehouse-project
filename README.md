@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse and Analytics
 
 A comprehensive data warehousing solution demonstrating end-to-end implementation of modern data architecture principles, ETL pipelines, and analytical reporting capabilities.
 
