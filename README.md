@@ -2,11 +2,10 @@
 
 A comprehensive data warehousing solution demonstrating end-to-end implementation of modern data architecture principles, ETL pipelines, and analytical reporting capabilities.
 
-## 🎯 Project Objective
+## Project Objective
 
-This project showcases my ability to design and implement a complete data warehouse solution from raw data ingestion to business-ready analytics. The implementation demonstrates my proficiency in data engineering best practices, SQL development, and dimensional modeling techniques.
-
-## 🏗️ Architecture Overview
+ Design and implement a complete data warehouse solution from raw data ingestion to business-ready analytics. 
+## Architecture Overview
 
 The solution implements a **Medallion Architecture** with Bronze, Silver, and Gold layers:
 
@@ -17,7 +16,7 @@ The solution implements a **Medallion Architecture** with Bronze, Silver, and Go
 
 ### Data Flow Architecture
 ![Data Flow Diagram](docs/data%20flow%20diagram.png)
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Core Competencies Demonstrated
 
@@ -41,7 +40,7 @@ The solution implements a **Medallion Architecture** with Bronze, Silver, and Go
 - Data aggregation and business metrics calculation
 - Dashboard-ready data preparation
 
-## 📊 Project Scope
+## Project Scope
 
 ### Key Features
 - **Data Integration**: Consolidated multiple source systems into unified data model
@@ -55,7 +54,7 @@ The solution implements a **Medallion Architecture** with Bronze, Silver, and Go
 - **Architecture Pattern**: Medallion (Bronze/Silver/Gold layers)
 - **Schema Design**: Star schema for optimal analytical performance
 
-## 💼 Business Value Delivered
+##  Business Value Delivered
 
 This data warehouse enables:
 - **Unified Reporting**: Single source of truth for sales and customer analytics
@@ -63,7 +62,7 @@ This data warehouse enables:
 - **Performance Insights**: Fast query response times for business users
 - **Scalable Foundation**: Extensible architecture for future requirements
 
-## 🏆 Skills Demonstrated
+## Skills Demonstrated
 
 - **Data Architecture**: Modern warehouse design principles
 - **ETL Development**: Robust data pipeline implementation
@@ -72,7 +71,7 @@ This data warehouse enables:
 - **Data Quality**: Comprehensive validation and cleansing strategies
 - **Documentation**: Clear documentation
 
-## 📈 Project Outcomes
+## Project Outcomes
 
 Successfully delivered a production-ready data warehouse that:
 - Processes data from multiple source systems
@@ -82,4 +81,4 @@ Successfully delivered a production-ready data warehouse that:
 - Demonstrates enterprise-level data engineering capabilities
 
 ---
-📊 *Check detailed project documentation* [ here](docs/project_documentation.md)
+*Check the step-by-step implementation* [ here](docs/project_documentation.md)
