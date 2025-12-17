@@ -81,4 +81,4 @@ Successfully delivered a production-ready data warehouse that:
 - Demonstrates enterprise-level data engineering capabilities
 
 ---
-*Check the step-by-step implementation* [ here](docs/project_documentation.md)
+*See how it was built* [ here](docs/project_documentation.md)
