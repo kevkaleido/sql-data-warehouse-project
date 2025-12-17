@@ -1,8 +1,3 @@
-# Data Warehouse Project Documentation
-
-This project demonstrates my ability to build a comprehensive data warehouse using the medallion architecture pattern.
-
-## Project Planning and Setup
 
 ### Initial Planning
 - Created a comprehensive Notion todo list breaking down all tasks into small, manageable steps
